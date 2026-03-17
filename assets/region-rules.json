@@ -1,0 +1,14 @@
+{
+  "PH": {
+    "shipping_days": 3,
+    "message": "Free returns within 7 days in the Philippines."
+  },
+  "US": {
+    "shipping_days": 6,
+    "message": "US orders include prepaid returns."
+  },
+  "EU": {
+    "shipping_days": 8,
+    "message": "EU customers have a 14-day return window."
+  }
+}

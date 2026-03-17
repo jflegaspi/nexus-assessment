@@ -1,0 +1,19 @@
+.delivery-eta-widget {
+  border: 1px solid #eee;
+  padding: 12px;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.delivery-input {
+  margin-bottom: 8px;
+}
+
+.delivery-date {
+  font-weight: 600;
+}
+
+.delivery-message {
+  color: #666;
+  font-size: 13px;
+}
