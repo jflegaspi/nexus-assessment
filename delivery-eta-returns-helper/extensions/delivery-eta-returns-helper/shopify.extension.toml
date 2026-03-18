@@ -1,0 +1,7 @@
+api_version = "2026-01"
+
+[[extensions]]
+name = "Delivery ETA Helper"
+handle = "delivery-eta-helper"
+uid = "8fe1fa32-c9fa-9723-affa-3f31854413b5c7062606"
+type = "theme"
