@@ -1,12 +1,8 @@
-.delivery-eta-widget {
+.deta-widget {
   border: 1px solid #eee;
   padding: 12px;
   margin-top: 10px;
   font-size: 14px;
-}
-
-.delivery-input {
-  margin-bottom: 8px;
 }
 
 .delivery-date {
