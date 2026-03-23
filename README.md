@@ -21,7 +21,7 @@ Assumptions and Design Decisions
 2. Region based conditions are built inside extension to avoid backend dependencies
 3. Data are passed as JSON object to avoid additional API Calls
 4. All calculation are done inside a single JS module to avoid pollution
-5. The widget is a theme app block so it can be place on any pages
+5. The widget is a theme app block so it can be place on product pages
 
 Flow and Logic
 1. Liquid > DOM
