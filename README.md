@@ -2,13 +2,13 @@
 
 CLI Commands Used:
 
-shopify auth login - login to the store im using to do this task
-shopify app init - run to create app
-shopify app generate extension - ran to create app extension
-shopify app dev - create preview for the app
-shopify theme dev - start local theme preview and upload the theme
-shopify theme pull - pull changes or files from Shopify store
-shopify theme push - push file changes to shopify store
+- shopify auth login - login to the store im using to do this task
+- shopify app init - run to create app
+- shopify app generate extension - ran to create app extension
+- shopify app dev - create preview for the app
+- shopify theme dev - start local theme preview and upload the theme
+- shopify theme pull - pull changes or files from Shopify store
+- shopify theme push - push file changes to shopify store
 
 Scenario 1 — Theme App Extension
 Delivery ETA & Returns Helper
